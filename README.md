@@ -6,4 +6,4 @@ Supervised learning is mainly used for classification (predicting categories suc
 
 The trained model successfully learns patterns from labeled data
 Performance metrics indicate how well the model generalizes
-Insights gained help in improving decision-making and predictions
+Insights gained help in improving decision-making and predictions.

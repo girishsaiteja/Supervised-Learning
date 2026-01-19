@@ -1,4 +1,4 @@
-# Supervised Learning
+# Supervised Learning - (Machine Learning)
 
 Supervised Learning is a type of machine learning where a model is trained using labeled data, meaning each input has a corresponding known output. The algorithm learns the relationship between input features and the target variable by analyzing example input–output pairs. Once trained, the model can predict outcomes for new, unseen data.
 
